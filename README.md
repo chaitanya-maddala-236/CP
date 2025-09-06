@@ -22,7 +22,9 @@ Think of this repo as my **quest log** 🎒 where each problem solved = 1 XP ear
 ---
 
 ## 🎬 Visual Progress
-![Glowing Level Up](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif)
+
+![Epic Level Up](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+
 
 
 
