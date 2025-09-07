@@ -1,3 +1,6 @@
+>>Patterns
+>>Logical Bulding Question 
+
 CP using C++ 
 
 1.Basics of C++
@@ -5,7 +8,7 @@ CP using C++
 3.Implementation And Constructive Algo 
 4. Understanding Number Therory and Maths Concepts
 5.Binary Search
-6. Bit Manipulation 
-7. Greedy 
+6.Bit Manipulation 
+7.Greedy 
 8.Dynamic Programming 
 9.Trees and Graph 
