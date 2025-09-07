@@ -1,2 +1,38 @@
-# to ignore all exe files
-*.exe 
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Ignore precompiled headers
+*.gch
+*.pch
+
+# Ignore compiled dynamic files
+*.lo
+*.la
+
+# Ignore build directories
+/build/
+/bin/
+/debug/
+/release/
+
+# Ignore IDE/project files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.xcodeproj
+*.idea/
+*.vscode/
+*.DS_Store
