@@ -1,0 +1,11 @@
+OverView
+--------------
+Prime Number and Sieve of Eratosthenes
+Binary and modular Exponentiation 
+Modular Arithmetic 
+Factors of a number 
+LCM and GCD 
+Factorial and nCr
+-------------------------------- 
+What is Number Theory ?
+    A Typical number theory syllabus for competitive progreamming includes topics such as prime factorization ,GCD and LCM algo's , modular arithmetic, the Sieve of Eratosthenes, and combinatorics
