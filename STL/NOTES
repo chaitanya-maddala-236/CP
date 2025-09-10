@@ -1,0 +1,19 @@
+ABOUT STL 
+
+stl is a set of c++ function/classes to perform varous tasks. 
+
+there is a wide varitey of fucntion and classes for different appplications 
+
+stl objects are more efficient, bug-free and easier to used than custom impleentations 
+
+----
+1.Pair 
+
+pairs are useful when dealing with two realted values. For example. For example, storing a range [L,R]
+
+Pairs have inbuilt comparators such <,> etc 
+
+Usage : 
+
+pair<int, int > ={1,2}
+

@@ -1,0 +1,6 @@
+Bit Manipulation
+Bitwise and shift opeators 
+OR , AND ,XOR and NOT 
+Left and Right Shift Operators 
+Tricks and Properties of Bitwise Operators 
+Practice Problems
