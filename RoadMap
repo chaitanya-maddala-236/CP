@@ -1,95 +1,104 @@
-📅 Month 1 – Foundations & Basics
+🚀 3-Month CP Roadmap
+📅 Month 1 – Foundations & Problem-Solving Habits
 
-Language Mastery (C++ / Java / Python)
+Goal: Build language fluency, get comfortable with basic problem solving.
 
-Learn syntax, STL (in C++), collections (Java), or built-in functions (Python).
+Week 1
 
-Practice I/O, arrays, strings, functions, recursion.
+Pick your main language (C++ recommended for STL).
 
-Basic Problems
+Learn I/O, loops, functions, arrays, strings.
 
-Number theory (prime check, GCD/LCM, modular arithmetic basics).
+Practice easy implementation problems (Codeforces Div 4 A/B).
 
-Simple loops, conditionals, implementation-type problems.
+Week 2
 
-Practice: Codeforces Div 3/4 A & B problems, AtCoder Beginner Contests.
+Time complexity (Big-O).
 
-📅 Month 2 – Brute Force to Optimization
+Basic math: primes, GCD/LCM, modular arithmetic.
 
-Mathematics & Logic
+Solve 15–20 math/implementation problems.
 
-Binary search, prefix sums, two pointers, hashing.
+Week 3
 
-Practice time complexity analysis (O(n), O(n log n), O(n²)).
+Sorting & Searching basics.
 
-Core Topics
+Binary search on arrays.
 
-Sorting algorithms.
+Prefix sums, difference arrays.
 
-Searching techniques.
+Practice Codeforces Div 3 A/B, AtCoder Beginner problems.
 
-Practice: Codeforces A/B/C, LeetCode Easy-Medium, AtCoder problems.
+Week 4
 
-📅 Month 3 – Data Structures I
+Two pointers, sliding window.
 
-Key Data Structures
+Hashing, frequency maps.
 
-Stacks, Queues, Deque, Linked List.
+Start contest participation (Codeforces Div 3).
 
-Sets, Maps (ordered & unordered).
+📅 Month 2 – Data Structures + Graphs Basics
+
+Goal: Master common data structures & start graph algorithms.
+
+Week 5
+
+Stacks, queues, deque.
+
+Practice problems: balanced parentheses, sliding window maximum.
+
+Week 6
+
+Sets, Maps (ordered/unordered).
 
 Bit manipulation basics.
 
-Apply DS in Problems
+Practice Codeforces B/C.
 
-Balanced brackets, sliding window, frequency counting, etc.
+Week 7
 
-Practice: Codeforces B/C, LeetCode Medium.
+Graph representation: adjacency list, matrix.
 
-📅 Month 4 – Data Structures II + Graphs Intro
+BFS, DFS.
 
-Advanced DS
+Problems: connected components, shortest path (unweighted).
 
-Binary Search Trees, Heap/Priority Queue.
+Week 8
 
-Disjoint Set Union (Union-Find).
+Dijkstra, Bellman-Ford basics.
 
-Graphs Basics
+Union-Find (Disjoint Set Union).
 
-Representation (adjacency list/matrix).
+Contest participation + 20 graph/DS problems.
 
-BFS, DFS, shortest path (Dijkstra, Bellman-Ford).
+📅 Month 3 – Dynamic Programming + Advanced Prep
 
-Practice: Codeforces C/D, AtCoder Beginner + Educational Contests.
+Goal: Cover DP essentials, contest practice, learn advanced DS.
 
-📅 Month 5 – Dynamic Programming (DP) Essentials
+Week 9
 
-DP Fundamentals
+DP basics: recursion + memoization, tabulation.
 
-Memoization vs Tabulation.
+Classic DP: Fibonacci, Knapsack, Coin Change.
 
-Classic problems: Fibonacci, Knapsack, Coin Change, LIS.
+Week 10
 
-Graph + DP Problems
+Longest Increasing Subsequence (LIS), Grid DP.
 
-DP on grids, paths in graphs, tree DP basics.
+Bitmask DP intro.
 
-Practice: Codeforces D/E, LeetCode Medium/Hard (DP tag).
+Practice 15–20 DP problems (Codeforces C/D, LeetCode Medium).
 
-📅 Month 6 – Advanced Topics + Contest Prep
+Week 11
 
-Advanced CP Topics
+Segment Tree, Fenwick Tree.
 
-Segment Trees, Fenwick Tree (BIT).
+String algorithms: KMP, Z-function.
 
-String Algorithms (KMP, Z-function, Trie, Suffix Array basics).
+Week 12
 
-Advanced Graphs: Minimum Spanning Tree (Kruskal/Prim), Topological Sort, Flow basics.
+Mixed practice: contests + virtual contests.
 
-Contest Focus
+Revise weak topics.
 
-Regularly participate in Codeforces Div 2 contests.
-
-Virtual participation in old contests.
-
-Learn contest strategies (time management, skipping hard problems, debugging).
+Solve past Codeforces Div 2 contests.
