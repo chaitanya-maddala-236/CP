@@ -1,0 +1,95 @@
+📅 Month 1 – Foundations & Basics
+
+Language Mastery (C++ / Java / Python)
+
+Learn syntax, STL (in C++), collections (Java), or built-in functions (Python).
+
+Practice I/O, arrays, strings, functions, recursion.
+
+Basic Problems
+
+Number theory (prime check, GCD/LCM, modular arithmetic basics).
+
+Simple loops, conditionals, implementation-type problems.
+
+Practice: Codeforces Div 3/4 A & B problems, AtCoder Beginner Contests.
+
+📅 Month 2 – Brute Force to Optimization
+
+Mathematics & Logic
+
+Binary search, prefix sums, two pointers, hashing.
+
+Practice time complexity analysis (O(n), O(n log n), O(n²)).
+
+Core Topics
+
+Sorting algorithms.
+
+Searching techniques.
+
+Practice: Codeforces A/B/C, LeetCode Easy-Medium, AtCoder problems.
+
+📅 Month 3 – Data Structures I
+
+Key Data Structures
+
+Stacks, Queues, Deque, Linked List.
+
+Sets, Maps (ordered & unordered).
+
+Bit manipulation basics.
+
+Apply DS in Problems
+
+Balanced brackets, sliding window, frequency counting, etc.
+
+Practice: Codeforces B/C, LeetCode Medium.
+
+📅 Month 4 – Data Structures II + Graphs Intro
+
+Advanced DS
+
+Binary Search Trees, Heap/Priority Queue.
+
+Disjoint Set Union (Union-Find).
+
+Graphs Basics
+
+Representation (adjacency list/matrix).
+
+BFS, DFS, shortest path (Dijkstra, Bellman-Ford).
+
+Practice: Codeforces C/D, AtCoder Beginner + Educational Contests.
+
+📅 Month 5 – Dynamic Programming (DP) Essentials
+
+DP Fundamentals
+
+Memoization vs Tabulation.
+
+Classic problems: Fibonacci, Knapsack, Coin Change, LIS.
+
+Graph + DP Problems
+
+DP on grids, paths in graphs, tree DP basics.
+
+Practice: Codeforces D/E, LeetCode Medium/Hard (DP tag).
+
+📅 Month 6 – Advanced Topics + Contest Prep
+
+Advanced CP Topics
+
+Segment Trees, Fenwick Tree (BIT).
+
+String Algorithms (KMP, Z-function, Trie, Suffix Array basics).
+
+Advanced Graphs: Minimum Spanning Tree (Kruskal/Prim), Topological Sort, Flow basics.
+
+Contest Focus
+
+Regularly participate in Codeforces Div 2 contests.
+
+Virtual participation in old contests.
+
+Learn contest strategies (time management, skipping hard problems, debugging).
