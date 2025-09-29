@@ -1,0 +1,104 @@
+🚀 3-Month CP Roadmap
+📅 Month 1 – Foundations & Problem-Solving Habits
+
+Goal: Build language fluency, get comfortable with basic problem solving.
+
+Week 1
+
+Pick your main language (C++ recommended for STL).
+
+Learn I/O, loops, functions, arrays, strings.
+
+Practice easy implementation problems (Codeforces Div 4 A/B).
+
+Week 2
+
+Time complexity (Big-O).
+
+Basic math: primes, GCD/LCM, modular arithmetic.
+
+Solve 15–20 math/implementation problems.
+
+Week 3
+
+Sorting & Searching basics.
+
+Binary search on arrays.
+
+Prefix sums, difference arrays.
+
+Practice Codeforces Div 3 A/B, AtCoder Beginner problems.
+
+Week 4
+
+Two pointers, sliding window.
+
+Hashing, frequency maps.
+
+Start contest participation (Codeforces Div 3).
+
+📅 Month 2 – Data Structures + Graphs Basics
+
+Goal: Master common data structures & start graph algorithms.
+
+Week 5
+
+Stacks, queues, deque.
+
+Practice problems: balanced parentheses, sliding window maximum.
+
+Week 6
+
+Sets, Maps (ordered/unordered).
+
+Bit manipulation basics.
+
+Practice Codeforces B/C.
+
+Week 7
+
+Graph representation: adjacency list, matrix.
+
+BFS, DFS.
+
+Problems: connected components, shortest path (unweighted).
+
+Week 8
+
+Dijkstra, Bellman-Ford basics.
+
+Union-Find (Disjoint Set Union).
+
+Contest participation + 20 graph/DS problems.
+
+📅 Month 3 – Dynamic Programming + Advanced Prep
+
+Goal: Cover DP essentials, contest practice, learn advanced DS.
+
+Week 9
+
+DP basics: recursion + memoization, tabulation.
+
+Classic DP: Fibonacci, Knapsack, Coin Change.
+
+Week 10
+
+Longest Increasing Subsequence (LIS), Grid DP.
+
+Bitmask DP intro.
+
+Practice 15–20 DP problems (Codeforces C/D, LeetCode Medium).
+
+Week 11
+
+Segment Tree, Fenwick Tree.
+
+String algorithms: KMP, Z-function.
+
+Week 12
+
+Mixed practice: contests + virtual contests.
+
+Revise weak topics.
+
+Solve past Codeforces Div 2 contests.
